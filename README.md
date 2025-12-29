@@ -1,15 +1,17 @@
  Decoding the Shopper Journey
-📖 Project Description
+ 
+Project Description
 
 This project analyzes retail customer shopping data to understand buying behavior, identify sales trends, and improve marketing strategies using data analytics.
 It demonstrates how raw business data can be transformed into meaningful insights for better decision-making.
 
-🎯 Problem Statement
+
+ Problem Statement
 
 Retail businesses often struggle to understand customer purchase behavior across products, channels, and demographics.
 This project solves that problem by analyzing customer purchase patterns and providing data-driven insights to support smarter business decisions.
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 
 Python – Data cleaning, preprocessing, and analysis
 
