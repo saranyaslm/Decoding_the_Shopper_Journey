@@ -78,6 +78,10 @@ This project solves that problem by analyzing customer purchase patterns and pro
   * Purchase behavior
   * Channel performance
 
+![Dashboard_Output ](https://github.com/user-attachments/assets/1b0bac35-83fc-491c-8be1-1e64dbc2ab05)
+
+  
+
 ---
 
 ## 💡 Key Outcomes
